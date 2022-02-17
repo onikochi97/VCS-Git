@@ -26,3 +26,5 @@ Come back to me someday
 New line
 
 Another line
+
+content for stash
