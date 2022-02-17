@@ -28,3 +28,5 @@ New line
 Another line
 
 content for stash
+
+and some content here
